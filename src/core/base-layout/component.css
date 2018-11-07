@@ -1,0 +1,22 @@
+.headers {
+  margin-top: 15px;
+}
+
+table  a {
+  color: white;
+  text-decoration: underline;
+}
+
+table a:hover {
+  color: red;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ab2e3a;
+  text-decoration: none;
+}
